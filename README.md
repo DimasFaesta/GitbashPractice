@@ -1,0 +1,2 @@
+# GitbashPractice
+Latihan pakai gitbash
